@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="say_bye">Say bye !</string>
+    <string name="say_bye2">Say bye !</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>

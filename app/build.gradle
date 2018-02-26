@@ -1,0 +1,19 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:25.+'
+    implementation 'com.android.support.constraint:constraint-layout:+'
+}
+android {
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+        applicationId 'com.sqisland.android.hello'
+        minSdkVersion 25
+        targetSdkVersion 25
+        versionCode 1
+        versionName '1.0.0'
+    }
+    productFlavors {
+    }
+}
